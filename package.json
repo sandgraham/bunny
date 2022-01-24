@@ -1,13 +1,14 @@
 {
   "name": "bunny",
+  "version": "0.0.0",
   "dependencies": {
-    "react": "latest",
-    "react-dom": "latest"
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "@types/react": "latest",
-    "@types/react-dom": "latest",
-    "react-refresh": "latest",
-    "typescript": "latest"
+    "@types/react": "17.0.38",
+    "@types/react-dom": "17.0.11",
+    "react-refresh": "0.11.0",
+    "typescript": "4.5.5"
   }
 }
